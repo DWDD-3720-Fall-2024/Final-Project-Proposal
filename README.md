@@ -1,6 +1,4 @@
-# Title
 
-Description
 
 ## Steps to complete the assignment
 
@@ -12,6 +10,14 @@ Description
 6. Leave the visibility **private**. *Changing this to public will result in a 0 for the assignment.*
 7. Optional: Choose a theme you like.
 
-## Prompt
+## Prompt/Requirements
 
-Prompt goes here.
+- What is the app idea?
+  - What will it do?
+  - Why is it something you want to develop?
+- List at least 15 application requirements for the front end
+  - These should require you to write JS Code
+  - CSS/HTML only requirements won't work
+- Why is this project worth your final project?
+
+Referance: [Final Project Requirements](https://uvu.instructure.com/courses/606686/assignments/7755171?module_item_id=13222690)
