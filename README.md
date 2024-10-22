@@ -18,6 +18,8 @@
 - List at least 15 application requirements for the front end
   - These should require you to write JS Code
   - CSS/HTML only requirements won't work
+- Include a quick sketch and/or mockup of the user interface.
+  - Point out key elements and what they do
 - Why is this project worth your final project?
 
 Referance: [Final Project Requirements](https://uvu.instructure.com/courses/606686/assignments/7755171?module_item_id=13222690)
